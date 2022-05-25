@@ -43,7 +43,13 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 BFS 系列
 
-- [计算在网格中从原点到特定点的最短路径长度](https://blog.csdn.net/weixin_42938619/article/details/124964069)
+1. [计算在网格中从原点到特定点的最短路径长度](https://blog.csdn.net/weixin_42938619/article/details/124964069)
+
+2. [组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977507)
+
+## DP
+
+1. [组成整数的最小平方数数量]()
 
 ## 相关复习和总结
 
