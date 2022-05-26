@@ -49,7 +49,7 @@ BFS 系列
 
 ## DP
 
-1. [组成整数的最小平方数数量]()
+1. [组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
 ## 相关复习和总结
 
