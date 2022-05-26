@@ -31,11 +31,11 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [540. 有序数组的 Single Element](https://goldenaarcher.blog.csdn.net/article/details/118998090)
 4. [278. 第一个错误的版本](https://goldenaarcher.blog.csdn.net/article/details/120090799)
 
-## 图
+### 图
 
-1. [最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
+1. [1615. 最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
 
-## 搜索
+### 搜索
 
 简单的基础 BFS 和 DFS：
 
@@ -43,13 +43,13 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 BFS 系列
 
-1. [计算在网格中从原点到特定点的最短路径长度](https://blog.csdn.net/weixin_42938619/article/details/124964069)
+1. [1091. 计算在网格中从原点到特定点的最短路径长度](https://blog.csdn.net/weixin_42938619/article/details/124964069)
 
-2. [组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977507)
+2. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977507)
 
-## DP
+### DP
 
-1. [组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
+1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
 ## 相关复习和总结
 
