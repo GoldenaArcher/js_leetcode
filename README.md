@@ -1,6 +1,16 @@
 # Leetcode 刷题目录
 
-按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目。
+- [Leetcode 刷题目录](#leetcode-刷题目录)
+  - [算法思想](#算法思想)
+    - [双指针](#双指针)
+    - [二分查找](#二分查找)
+    - [搜索](#搜索)
+    - [DP](#dp)
+  - [数据结构相关](#数据结构相关)
+    - [图](#图)
+  - [相关复习和总结](#相关复习和总结)
+
+按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.
 
 Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetcode)
 
@@ -31,15 +41,12 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [540. 有序数组的 Single Element](https://goldenaarcher.blog.csdn.net/article/details/118998090)
 4. [278. 第一个错误的版本](https://goldenaarcher.blog.csdn.net/article/details/120090799)
 
-### 图
-
-1. [1615. 最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
-
 ### 搜索
 
 简单的基础 BFS 和 DFS：
 
 - [bfs](https://goldenaarcher.blog.csdn.net/article/details/124957784)
+- [dfs]
 
 BFS 系列
 
@@ -47,12 +54,22 @@ BFS 系列
 
 2. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977507)
 
-3. [127. 最短单词路径]()
-4. [二叉树的层序遍历]()
+3. [127. 最短单词路径](https://goldenaarcher.blog.csdn.net/article/details/124995612)
+4. [102. 二叉树的层序遍历](https://goldenaarcher.blog.csdn.net/article/details/124996421)
+
+DFS 系列
+
+1. [200. 岛屿数量 & 695. 岛屿的最大面积]
 
 ### DP
 
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
+
+## 数据结构相关
+
+### 图
+
+1. [1615. 最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
 
 ## 相关复习和总结
 
