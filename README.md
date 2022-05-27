@@ -46,7 +46,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 简单的基础 BFS 和 DFS：
 
 - [bfs](https://goldenaarcher.blog.csdn.net/article/details/124957784)
-- [dfs]
+- [dfs](https://blog.csdn.net/weixin_42938619/article/details/125013749)
 
 BFS 系列
 
