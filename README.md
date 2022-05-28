@@ -5,8 +5,10 @@
     - [双指针](#双指针)
     - [二分查找](#二分查找)
     - [搜索](#搜索)
+    - [贪心](#贪心)
     - [DP](#dp)
   - [数据结构相关](#数据结构相关)
+    - [哈希表](#哈希表)
     - [图](#图)
   - [相关复习和总结](#相关复习和总结)
 
@@ -56,7 +58,7 @@ BFS 系列
 
 3. [127. 最短单词路径](https://goldenaarcher.blog.csdn.net/article/details/124995612)
 4. [102. 二叉树的层序遍历](https://goldenaarcher.blog.csdn.net/article/details/124996421)
-5. [994. 腐烂的橘子]
+5. [994. 腐烂的橘子](https://goldenaarcher.blog.csdn.net/article/details/125025627)
 
 DFS 系列
 
@@ -65,11 +67,21 @@ DFS 系列
 2. [547. 省份数量]
 3. [130. 被围绕的区域]
 
+### 贪心
+
+1. [455. 分配饼干](https://goldenaarcher.blog.csdn.net/article/details/124944952)
+
+2. [1221. 分割平衡字符串]
+
 ### DP
 
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
 ## 数据结构相关
+
+### 哈希表
+
+1. [1002. 查找共用字符]
 
 ### 图
 
