@@ -13,6 +13,8 @@
   - [数据结构相关](#数据结构相关)
     - [哈希表](#哈希表)
     - [图](#图)
+    - [位运算](#位运算)
+    - [数组与矩阵](#数组与矩阵)
   - [相关复习和总结](#相关复习和总结)
 
 按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.
@@ -67,20 +69,21 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [200. 岛屿数量 & 695. 岛屿的最大面积](https://blog.csdn.net/weixin_42938619/article/details/125013811)
 
-2. [547. 省份数量]()
+2. [547. 省份数量](https://goldenaarcher.blog.csdn.net/article/details/125030401)
 3. [130. 被围绕的区域](https://blog.csdn.net/weixin_42938619/article/details/125026379?)
+4. [417. 太平洋大西洋水流问题](https://goldenaarcher.blog.csdn.net/article/details/125030632)
 
 #### Backtracking 系列
 
 说起来，Backtracking 的题目，比 BFS 与 DFS 的和还多……
 
-1. [17. 电话号码的字母组合]()
+1. [17. 电话号码的字母组合](https://goldenaarcher.blog.csdn.net/article/details/125030421)
 
 ### 贪心
 
 1. [455. 分配饼干](https://goldenaarcher.blog.csdn.net/article/details/124944952)
 
-2. [1221. 分割平衡字符串]()
+2. [1221. 分割平衡字符串](https://goldenaarcher.blog.csdn.net/article/details/125030442)
 
 ### DP
 
@@ -90,11 +93,19 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 哈希表
 
-1. [1002. 查找共用字符]()
+1. [1002. 查找共用字符](https://goldenaarcher.blog.csdn.net/article/details/125030458)
 
 ### 图
 
 1. [1615. 最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
+
+### 位运算
+
+1. [318. 最大单词长度乘积](https://goldenaarcher.blog.csdn.net/article/details/125030472)
+
+### 数组与矩阵
+
+1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
 
 ## 相关复习和总结
 
