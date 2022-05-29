@@ -94,7 +94,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 字符串
 
-1. [2288. 价格减免](https://goldenaarcher.blog.csdn.net/article/details/125030856)
+1. [2288. 价格减免](https://goldenaarcher.blog.csdn.net/article/details/125030944)
 
 ### 哈希表
 
