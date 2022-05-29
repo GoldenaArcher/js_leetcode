@@ -11,6 +11,7 @@
     - [贪心](#贪心)
     - [DP](#dp)
   - [数据结构相关](#数据结构相关)
+    - [字符串](#字符串)
     - [哈希表](#哈希表)
     - [图](#图)
     - [位运算](#位运算)
@@ -90,6 +91,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
 ## 数据结构相关
+
+### 字符串
+
+1. [2288. 价格减免](https://goldenaarcher.blog.csdn.net/article/details/125030856)
 
 ### 哈希表
 
