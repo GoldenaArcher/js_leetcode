@@ -5,6 +5,9 @@
     - [双指针](#双指针)
     - [二分查找](#二分查找)
     - [搜索](#搜索)
+      - [BFS 系列](#bfs-系列)
+      - [DFS 系列](#dfs-系列)
+      - [Backtracking 系列](#backtracking-系列)
     - [贪心](#贪心)
     - [DP](#dp)
   - [数据结构相关](#数据结构相关)
@@ -50,7 +53,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 - [bfs](https://goldenaarcher.blog.csdn.net/article/details/124957784)
 - [dfs](https://blog.csdn.net/weixin_42938619/article/details/125013749)
 
-BFS 系列
+#### BFS 系列
 
 1. [1091. 计算在网格中从原点到特定点的最短路径长度](https://blog.csdn.net/weixin_42938619/article/details/124964069)
 
@@ -60,18 +63,24 @@ BFS 系列
 4. [102. 二叉树的层序遍历](https://goldenaarcher.blog.csdn.net/article/details/124996421)
 5. [994. 腐烂的橘子](https://goldenaarcher.blog.csdn.net/article/details/125025627)
 
-DFS 系列
+#### DFS 系列
 
 1. [200. 岛屿数量 & 695. 岛屿的最大面积](https://blog.csdn.net/weixin_42938619/article/details/125013811)
 
-2. [547. 省份数量]
+2. [547. 省份数量]()
 3. [130. 被围绕的区域](https://blog.csdn.net/weixin_42938619/article/details/125026379?)
+
+#### Backtracking 系列
+
+说起来，Backtracking 的题目，比 BFS 与 DFS 的和还多……
+
+1. [17. 电话号码的字母组合]()
 
 ### 贪心
 
 1. [455. 分配饼干](https://goldenaarcher.blog.csdn.net/article/details/124944952)
 
-2. [1221. 分割平衡字符串]
+2. [1221. 分割平衡字符串]()
 
 ### DP
 
@@ -81,7 +90,7 @@ DFS 系列
 
 ### 哈希表
 
-1. [1002. 查找共用字符]
+1. [1002. 查找共用字符]()
 
 ### 图
 
