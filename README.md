@@ -16,6 +16,7 @@
     - [图](#图)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
+    - [数学](#数学)
   - [相关复习和总结](#相关复习和总结)
 
 按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.
@@ -80,7 +81,12 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [17. 电话号码的字母组合](https://goldenaarcher.blog.csdn.net/article/details/125030421)
 
-   同类型题还有 `257. Binary Tree Paths`，我也放在上面一起解了。
+   不换汤也不换药的同类型题还有:
+
+   - `257. Binary Tree Paths`
+   - `46. Permutations`
+
+   我也放在上面一起解了。
 
 2. [93. 复原 IP 地址](https://goldenaarcher.blog.csdn.net/article/details/125039462)
 
@@ -102,6 +108,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [2288. 价格减免](https://goldenaarcher.blog.csdn.net/article/details/125030944)
 
+2. [157. 用 Read4 读取 N 个字符](https://goldenaarcher.blog.csdn.net/article/details/125057439)
+
 ### 哈希表
 
 1. [1002. 查找共用字符](https://goldenaarcher.blog.csdn.net/article/details/125030458)
@@ -119,6 +127,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 ### 数组与矩阵
 
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
+
+### 数学
+
+1. [1056. 困惑数字](https://goldenaarcher.blog.csdn.net/article/details/125056263)
 
 ## 相关复习和总结
 
