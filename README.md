@@ -80,6 +80,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [17. 电话号码的字母组合](https://goldenaarcher.blog.csdn.net/article/details/125030421)
 
+2. [93. 复原 IP 地址](https://goldenaarcher.blog.csdn.net/article/details/125039462)
+
 ### 贪心
 
 1. [455. 分配饼干](https://goldenaarcher.blog.csdn.net/article/details/124944952)
@@ -90,6 +92,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
+2. [53. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
+
 ## 数据结构相关
 
 ### 字符串
@@ -99,6 +103,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 ### 哈希表
 
 1. [1002. 查找共用字符](https://goldenaarcher.blog.csdn.net/article/details/125030458)
+
+2. [217. 存在重复元素](https://blog.csdn.net/weixin_42938619/article/details/125041421?)
 
 ### 图
 
