@@ -80,6 +80,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [17. 电话号码的字母组合](https://goldenaarcher.blog.csdn.net/article/details/125030421)
 
+   同类型题还有 `257. Binary Tree Paths`，我也放在上面一起解了。
+
 2. [93. 复原 IP 地址](https://goldenaarcher.blog.csdn.net/article/details/125039462)
 
 ### 贪心
