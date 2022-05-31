@@ -16,6 +16,8 @@
     - [图](#图)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
+      - [数组](#数组)
+      - [矩阵](#矩阵)
     - [数学](#数学)
   - [相关复习和总结](#相关复习和总结)
 
@@ -115,6 +117,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 1. [1002. 查找共用字符](https://goldenaarcher.blog.csdn.net/article/details/125030458)
 
 2. [217. 存在重复元素](https://blog.csdn.net/weixin_42938619/article/details/125041421?)
+3. [359. 日志速率限制器](https://goldenaarcher.blog.csdn.net/article/details/125062087)
 
 ### 图
 
@@ -126,7 +129,13 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 数组与矩阵
 
+#### 数组
+
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
+
+#### 矩阵
+
+1. [463. 岛屿的周长](https://goldenaarcher.blog.csdn.net/article/details/125062580)
 
 ### 数学
 
