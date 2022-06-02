@@ -12,6 +12,7 @@
     - [DP](#dp)
   - [数据结构相关](#数据结构相关)
     - [字符串](#字符串)
+    - [栈和队列](#栈和队列)
     - [哈希表](#哈希表)
     - [图](#图)
     - [位运算](#位运算)
@@ -112,6 +113,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 2. [157. 用 Read4 读取 N 个字符](https://goldenaarcher.blog.csdn.net/article/details/125057439)
 
+### 栈和队列
+
+1. [394. 字符串解码]()
+
 ### 哈希表
 
 1. [1002. 查找共用字符](https://goldenaarcher.blog.csdn.net/article/details/125030458)
@@ -130,9 +135,13 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 数组与矩阵
 
+1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
+
 #### 数组
 
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
+
+2. [1480. 一维数组的动态和](https://goldenaarcher.blog.csdn.net/article/details/125100932)
 
 #### 矩阵
 
