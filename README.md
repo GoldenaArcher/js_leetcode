@@ -4,6 +4,7 @@
   - [算法思想](#算法思想)
     - [双指针](#双指针)
     - [二分查找](#二分查找)
+    - [排序](#排序)
     - [搜索](#搜索)
       - [BFS 系列](#bfs-系列)
       - [DFS 系列](#dfs-系列)
@@ -53,6 +54,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [540. 有序数组的 Single Element](https://goldenaarcher.blog.csdn.net/article/details/118998090)
 4. [278. 第一个错误的版本](https://goldenaarcher.blog.csdn.net/article/details/120090799)
 
+### 排序
+
+1. [973. 最接近原点的 K 个点](https://goldenaarcher.blog.csdn.net/article/details/125110056)
+
 ### 搜索
 
 简单的基础 BFS 和 DFS：
@@ -69,6 +74,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [127. 最短单词路径](https://goldenaarcher.blog.csdn.net/article/details/124995612)
 4. [102. 二叉树的层序遍历](https://goldenaarcher.blog.csdn.net/article/details/124996421)
 5. [994. 腐烂的橘子](https://goldenaarcher.blog.csdn.net/article/details/125025627)
+6. [1197. ]()
 
 #### DFS 系列
 
@@ -115,7 +121,9 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 栈和队列
 
-1. [394. 字符串解码]()
+1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
+
+2. [394. 字符串解码](https://goldenaarcher.blog.csdn.net/article/details/125109032)
 
 ### 哈希表
 
@@ -135,8 +143,6 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 数组与矩阵
 
-1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
-
 #### 数组
 
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
@@ -146,6 +152,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 #### 矩阵
 
 1. [463. 岛屿的周长](https://goldenaarcher.blog.csdn.net/article/details/125062580)
+
+2. [867. 转置矩阵](https://goldenaarcher.blog.csdn.net/article/details/125101218)
 
 ### 数学
 
