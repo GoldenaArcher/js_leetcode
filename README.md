@@ -74,7 +74,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [127. 最短单词路径](https://goldenaarcher.blog.csdn.net/article/details/124995612)
 4. [102. 二叉树的层序遍历](https://goldenaarcher.blog.csdn.net/article/details/124996421)
 5. [994. 腐烂的橘子](https://goldenaarcher.blog.csdn.net/article/details/125025627)
-6. [1197. ]()
+6. [1197. 进击的骑士](https://goldenaarcher.blog.csdn.net/article/details/125112742)
 
 #### DFS 系列
 
@@ -148,12 +148,15 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
 
 2. [1480. 一维数组的动态和](https://goldenaarcher.blog.csdn.net/article/details/125100932)
+3. []()
 
 #### 矩阵
 
 1. [463. 岛屿的周长](https://goldenaarcher.blog.csdn.net/article/details/125062580)
 
 2. [867. 转置矩阵](https://goldenaarcher.blog.csdn.net/article/details/125101218)
+
+3. [304. 二维区域和检索 - 矩阵不可变](https://goldenaarcher.blog.csdn.net/article/details/125118318)
 
 ### 数学
 
