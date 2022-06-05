@@ -21,6 +21,7 @@
       - [数组](#数组)
       - [矩阵](#矩阵)
     - [数学](#数学)
+  - [未定](#未定)
   - [相关复习和总结](#相关复习和总结)
 
 按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.
@@ -148,7 +149,9 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 1. [2287. 重排字符形成目标字符串](https://goldenaarcher.blog.csdn.net/article/details/125030624)
 
 2. [1480. 一维数组的动态和](https://goldenaarcher.blog.csdn.net/article/details/125100932)
-3. []()
+3. [2293. 极大极小游戏](https://blog.csdn.net/weixin_42938619/article/details/125131635)
+4. [2294. 划分数组使最大差为 K](https://goldenaarcher.blog.csdn.net/article/details/125131724)
+5. [2295. 替换数组中的元素](https://goldenaarcher.blog.csdn.net/article/details/125131876)
 
 #### 矩阵
 
@@ -161,6 +164,12 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 ### 数学
 
 1. [1056. 困惑数字](https://goldenaarcher.blog.csdn.net/article/details/125056263)
+
+## 未定
+
+一些周赛碰到的题，暂时还没看到合适的分类。
+
+1. [2296. 设计一个文本编辑器](https://goldenaarcher.blog.csdn.net/article/details/125132105)
 
 ## 相关复习和总结
 
