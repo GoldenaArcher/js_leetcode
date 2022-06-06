@@ -24,9 +24,11 @@
   - [未定](#未定)
   - [相关复习和总结](#相关复习和总结)
 
-按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.
+~~按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 这份刷题目录解的题，如果有题目出现在 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 以外，就是碰到过的题目或是在刷目标公司的 OA.~~
 
-Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetcode)
+刚开始的题还是按照 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md) 出现的顺序做的，后面基本上就是散着来的，只能按照类型分类了……。
+
+Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetcode)。
 
 ## 算法思想
 
@@ -112,6 +114,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 2. [53. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
 
+3. [121. 买卖股票的最佳时机](https://goldenaarcher.blog.csdn.net/article/details/125146148)
+
 ## 数据结构相关
 
 ### 字符串
@@ -133,6 +137,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 2. [217. 存在重复元素](https://blog.csdn.net/weixin_42938619/article/details/125041421?)
 3. [359. 日志速率限制器](https://goldenaarcher.blog.csdn.net/article/details/125062087)
 4. [1461. 检查一个字符串是否包含所有长度为 K 的二进制子串](https://blog.csdn.net/weixin_42938619/article/details/125063909)
+5. [350. 两个数组的交集 II](https://goldenaarcher.blog.csdn.net/article/details/125139560)
 
 ### 图
 
