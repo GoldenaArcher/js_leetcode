@@ -12,6 +12,7 @@
     - [贪心](#贪心)
     - [DP](#dp)
   - [数据结构相关](#数据结构相关)
+    - [链表](#链表)
     - [字符串](#字符串)
     - [栈和队列](#栈和队列)
     - [哈希表](#哈希表)
@@ -56,6 +57,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 3. [540. 有序数组的 Single Element](https://goldenaarcher.blog.csdn.net/article/details/118998090)
 4. [278. 第一个错误的版本](https://goldenaarcher.blog.csdn.net/article/details/120090799)
+5. [74. 搜索二维矩阵](https://goldenaarcher.blog.csdn.net/article/details/125157940)
 
 ### 排序
 
@@ -112,11 +114,16 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
-2. [53. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
+2. [79. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
 
 3. [121. 买卖股票的最佳时机](https://goldenaarcher.blog.csdn.net/article/details/125146148)
+4. [118. 杨辉三角](https://goldenaarcher.blog.csdn.net/article/details/125148841)
 
 ## 数据结构相关
+
+### 链表
+
+1. [160. 相交链表](https://goldenaarcher.blog.csdn.net/article/details/125163897)
 
 ### 字符串
 
@@ -165,6 +172,9 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 2. [867. 转置矩阵](https://goldenaarcher.blog.csdn.net/article/details/125101218)
 
 3. [304. 二维区域和检索 - 矩阵不可变](https://goldenaarcher.blog.csdn.net/article/details/125118318)
+
+4. [566. 重塑矩阵](https://goldenaarcher.blog.csdn.net/article/details/125148345)
+5. [36. 有效的数独](https://goldenaarcher.blog.csdn.net/article/details/125157068)
 
 ### 数学
 
