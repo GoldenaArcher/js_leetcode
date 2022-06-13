@@ -48,6 +48,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 6. [141. 判断链表是否存在环](https://goldenaarcher.blog.csdn.net/article/details/118078119)
 
 7. [524. 最长子序列](https://goldenaarcher.blog.csdn.net/article/details/118098338)
+8. [142 & 287](https://goldenaarcher.blog.csdn.net/article/details/125241681)
 
 ### 二分查找
 
