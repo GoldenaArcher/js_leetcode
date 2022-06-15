@@ -7,86 +7,98 @@ class Node {
 }
 
 class DLL {
-  // add node to the head of the dll
-  push(data) {
-    const newNode = data instanceof Node ? data : new Node(data);
-    newNode.next = this.head || null;
+  constructor() {
+    this.head = null;
+    this.tail = null;
+  }
 
-    if (this.head) this.head.prev = newNode;
+  print() {
+    let l1 = this.head;
+    let res = [];
 
+    while (l1?.next) {
+      res.push(l1?.val, "<->");
+      l1 = l1.next;
+    }
+
+    res.push(l1?.val);
+
+    console.log(res.join(" "));
+  }
+
+  appendToHead(node) {
+    const newNode = node instanceof Node ? node : new Node(node);
+    if (!this.head) {
+      this.head = newNode;
+      this.tail = newNode;
+
+      return;
+    }
+
+    newNode.next = this.head;
+    this.head.prev = newNode;
     this.head = newNode;
   }
 
-  insertAfter(prevNode, data) {
-    if (!prevNode) return;
+  appendToTail(node) {
+    const newNode = node instanceof Node ? node : new Node(node);
+    if (!this.head) {
+      this.head = newNode;
+      this.tail = newNode;
 
-    const newNode = data instanceof Node ? data : new Node(data);
+      return;
+    }
 
-    newNode;
-    const nextNode = prevNode.next;
-    prevNode.next = newNode;
-    newNode.next = nextNode;
-
-    newNode.prev = prevNode;
-    nextNode.prev = newNode;
-  }
-
-  append(data) {
-    const newNode = data instanceof Node ? data : new Node(data);
-
-    if (!this.head) return (this.head = newNode);
-
-    let last = this.head;
-    while (last.next !== null) last = last.next;
-    last.next = newNode;
-    newNode.prev = last;
+    newNode.prev = this.tail;
+    this.tail.next = newNode;
+    this.tail = newNode;
   }
 
   moveToHead(node) {
-    const prevNode = node.prev,
-      nextNode = node.next;
+    if (node === this.head) return ;
 
-    prevNode.next = nextNode;
-    if (nextNode) nextNode.prev = prevNode;
+    const prev = node.prev, next = node.next;
+    prev.next = next;
+    if (next) next.prev = prev;
+    if (node === this.tail) this.tail = prev;
 
+    this.head.prev = node;
     node.next = this.head;
     this.head = node;
   }
+
+  removeTail() {
+    if (this.head === this.tail) {
+      this.head = null;
+      this.tail = null;
+      return ;
+    }
+
+    const prev = this.tail.prev;
+    prev.next = null;
+    this.tail = prev;
+  }
 }
 
-const logDLL = (dll) => {
-  const str = [];
-  let head = dll.head;
-  while (head.next) {
-    str.push(head.val, "->");
-    head = head.next;
-  }
-
-  str.push(head.val);
-
-  console.log(str.join(" "));
-};
-
-const node8 = new Node(8);
-const node9 = new Node(9);
+const node5 = new Node(5);
 const node10 = new Node(10);
-const node11 = new Node(11);
-const node1 = new Node(1);
 
 const dll = new DLL();
 
-dll.append(node11);
+dll.appendToHead(7);
+dll.appendToHead(node5);
 
-dll.push(node10);
+dll.print();
 
-dll.push(node8);
+dll.appendToTail(8);
+dll.appendToTail(node10);
 
-dll.append(node1);
+dll.print();
 
-dll.insertAfter(node8, node9);
+dll.moveToHead(node5)
+dll.moveToHead(node10)
+dll.moveToHead(node5)
+dll.print()
 
-logDLL(dll);
-
-dll.moveToHead(node1);
-
-logDLL(dll);
+dll.removeTail();
+dll.print()

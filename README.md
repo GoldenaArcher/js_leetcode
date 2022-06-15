@@ -131,6 +131,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 4. [203. 移除链表元素](https://goldenaarcher.blog.csdn.net/article/details/125176975)
 5. [206. 反转链表](https://goldenaarcher.blog.csdn.net/article/details/125200337)
 6. [876. 链表的中间结点](https://goldenaarcher.blog.csdn.net/article/details/125211679)
+7. [146. LRU 缓存](https://goldenaarcher.blog.csdn.net/article/details/125276206)
+8. [2 & 23](https://goldenaarcher.blog.csdn.net/article/details/125278007)
 
 ### 字符串
 
