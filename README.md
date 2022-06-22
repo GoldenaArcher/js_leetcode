@@ -16,6 +16,7 @@
     - [字符串](#字符串)
     - [栈和队列](#栈和队列)
     - [哈希表](#哈希表)
+    - [树](#树)
     - [图](#图)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
@@ -154,6 +155,22 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 3. [359. 日志速率限制器](https://goldenaarcher.blog.csdn.net/article/details/125062087)
 4. [1461. 检查一个字符串是否包含所有长度为 K 的二进制子串](https://blog.csdn.net/weixin_42938619/article/details/125063909)
 5. [350. 两个数组的交集 II](https://goldenaarcher.blog.csdn.net/article/details/125139560)
+6. [560. 和为 K 的子数组](https://goldenaarcher.blog.csdn.net/article/details/125388489)
+
+### 树
+
+1. [遍历总结](https://goldenaarcher.blog.csdn.net/article/details/125350745)
+
+   题目包括：
+
+   - 144. Binary Tree Preorder Traversal
+   - 145. Binary Tree Postorder Traversal
+   - 94. Binary Tree Inorder Traversal
+   - 102. Binary Tree Level Order Traversal
+
+   除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
+
+2. 的
 
 ### 图
 
@@ -201,3 +218,4 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 - [龟兔指针法](https://goldenaarcher.blog.csdn.net/article/details/125225923)
 - [链表及双向链表](https://goldenaarcher.blog.csdn.net/article/details/125259758)
+- [树的遍历](https://goldenaarcher.blog.csdn.net/article/details/125350745)
