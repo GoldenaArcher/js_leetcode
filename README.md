@@ -17,6 +17,8 @@
     - [栈和队列](#栈和队列)
     - [哈希表](#哈希表)
     - [树](#树)
+      - [二叉树](#二叉树)
+      - [二叉搜索树](#二叉搜索树)
     - [图](#图)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
@@ -159,18 +161,22 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 树
 
-1. [遍历总结](https://goldenaarcher.blog.csdn.net/article/details/125350745)
+#### 二叉树
 
-   题目包括：
+- [遍历总结](https://goldenaarcher.blog.csdn.net/article/details/125350745)
 
-   - 144. Binary Tree Preorder Traversal
-   - 145. Binary Tree Postorder Traversal
-   - 94. Binary Tree Inorder Traversal
-   - 102. Binary Tree Level Order Traversal
+  题目包括：
 
-   除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
+  - 144.  Binary Tree Preorder Traversal
+  - 145.  Binary Tree Postorder Traversal
+  - 94. Binary Tree Inorder Traversal
+  - 102.  Binary Tree Level Order Traversal
 
-2. 的
+  除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
+
+#### 二叉搜索树
+
+1. [98. 验证二叉搜索树](https://goldenaarcher.blog.csdn.net/article/details/125425574)
 
 ### 图
 
