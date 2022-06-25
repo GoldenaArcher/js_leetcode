@@ -36,6 +36,8 @@ graph TD
 
 ## 二叉搜索树的新增
 
-新增二叉搜索树其实不难，稍微难/麻烦一点的是平衡二叉树，二叉树的新增可以参考一下这篇笔记：[701. Insert into a Binary Search Tree]()
+新增二叉搜索树其实不难，稍微难/麻烦一点的是平衡二叉树，二叉树的新增可以参考一下这篇笔记：[701. Insert into a Binary Search Tree](https://goldenaarcher.blog.csdn.net/article/details/125458856)
+
+我写的解法不是最有效的，但是我觉得对我来说是最好理解的。
 
 ## 二叉搜索树的删除
