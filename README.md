@@ -163,16 +163,9 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 #### 二叉树
 
-- [遍历总结](https://goldenaarcher.blog.csdn.net/article/details/125350745)
+1. [173. 二叉搜索树迭代器](https://goldenaarcher.blog.csdn.net/article/details/125454664)
 
-  题目包括：
-
-  - 144.  Binary Tree Preorder Traversal
-  - 145.  Binary Tree Postorder Traversal
-  - 94. Binary Tree Inorder Traversal
-  - 102.  Binary Tree Level Order Traversal
-
-  除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
+   这题感觉还是用二叉树，没用到二叉搜索树的特性，所以就放在这里了
 
 #### 二叉搜索树
 
@@ -225,3 +218,13 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 - [龟兔指针法](https://goldenaarcher.blog.csdn.net/article/details/125225923)
 - [链表及双向链表](https://goldenaarcher.blog.csdn.net/article/details/125259758)
 - [树的遍历](https://goldenaarcher.blog.csdn.net/article/details/125350745)
+- [遍历总结](https://goldenaarcher.blog.csdn.net/article/details/125350745)
+
+  题目包括：
+
+  - 144.  Binary Tree Preorder Traversal
+  - 145.  Binary Tree Postorder Traversal
+  - 94. Binary Tree Inorder Traversal
+  - 102.  Binary Tree Level Order Traversal
+
+  除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
