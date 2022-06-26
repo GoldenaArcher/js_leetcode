@@ -36,8 +36,28 @@ graph TD
 
 ## 二叉搜索树的新增
 
-新增二叉搜索树其实不难，稍微难/麻烦一点的是平衡二叉树，二叉树的新增可以参考一下这篇笔记：[701. Insert into a Binary Search Tree](https://goldenaarcher.blog.csdn.net/article/details/125458856)
+新增二叉搜索树其实不难，稍微难/麻烦一点的是平衡二叉树，二叉树的新增可以参考一下这篇笔记：[二叉搜索树中的插入操作](https://goldenaarcher.blog.csdn.net/article/details/125458856)
 
 我写的解法不是最有效的，但是我觉得对我来说是最好理解的。
 
+![binary search tree](https://img-blog.csdnimg.cn/3338d48b259c49688b298fa03278391e.png)
+
+用二叉搜索树删除结点这道题来说，如果要将 3 重新加回到二叉树中，上面这个解法会将 3 加到 2 的右子树中，同样也是合法的二叉搜索树，不过不是一棵平衡二叉搜索树。
+
+这里主要的做法就是利用不会出现重复数字的特性，一直对树的结点进行遍历，如果当前结点的值大于本身要找的数字，就在该节点的左子树中进行搜索，反之在右子树中进行搜索。
+
+一直找到某个结点的左/右子树为空时进行插入即可。
+
 ## 二叉搜索树的删除
+
+删除的笔记在这里：[删除二叉搜索树中的节点](https://goldenaarcher.blog.csdn.net/article/details/125466404)，这个解法也不是最理想的解，用笔记中的图来说，原本的二叉搜索树如下：
+
+![bst deletion](https://img-blog.csdnimg.cn/4b154091434c4a6f8d79dbba16020455.png)
+
+解完后如下：
+
+![bst deletion2](https://img-blog.csdnimg.cn/d3e2079f88a44642a5e62f873cf30e21.png)
+
+这个做法是将被删除结点的右子树提上来，替换当前子树。随后找到该子树(右子树) 的最左侧结点，将原本的左子树(这里时 `[5, 4]`) 挂上去即可。
+
+非平衡二叉树的高度($h$) 的取值范围在 $0 \leqq h \leq n$，所以是没有办法保证 $O(log(n))$ 的。

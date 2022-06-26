@@ -15,6 +15,8 @@
     - [链表](#链表)
     - [字符串](#字符串)
     - [栈和队列](#栈和队列)
+      - [栈](#栈)
+      - [队列](#队列)
     - [哈希表](#哈希表)
     - [树](#树)
       - [二叉树](#二叉树)
@@ -145,9 +147,17 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 ### 栈和队列
 
+#### 栈
+
 1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
 
 2. [394. 字符串解码](https://goldenaarcher.blog.csdn.net/article/details/125109032)
+
+#### 队列
+
+1. [703. 数据流中的第 K 大元素](https://goldenaarcher.blog.csdn.net/article/details/125468842)
+
+   这题其实解法很多，排序里面也有做过相似的，不过这里主要用的是 leetcode 内置的一个类：`MaxPriorityQueue` 去解的
 
 ### 哈希表
 
@@ -173,6 +183,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 2. [173. 二叉搜索树迭代器](https://goldenaarcher.blog.csdn.net/article/details/125454664)
 3. [701. 二叉搜索树中的插入操作](https://goldenaarcher.blog.csdn.net/article/details/125458856)
+4. [750. 删除二叉搜索树中的节点](https://goldenaarcher.blog.csdn.net/article/details/125466404)
 
 ### 图
 
