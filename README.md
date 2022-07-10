@@ -177,6 +177,9 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
    这题感觉还是用二叉树，没用到二叉搜索树的特性，所以就放在这里了
 
+2. [105. 从前序与中序遍历序列构造二叉树](https://goldenaarcher.blog.csdn.net/article/details/125598353)
+3. [222. 完全二叉树的节点个数](https://goldenaarcher.blog.csdn.net/article/details/125705544)
+
 #### 二叉搜索树
 
 1. [98. 验证二叉搜索树](https://goldenaarcher.blog.csdn.net/article/details/125425574)
