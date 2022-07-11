@@ -21,6 +21,7 @@
     - [树](#树)
       - [二叉树](#二叉树)
       - [二叉搜索树](#二叉搜索树)
+      - [前缀树 trie](#前缀树-trie)
     - [图](#图)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
@@ -179,6 +180,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 2. [105. 从前序与中序遍历序列构造二叉树](https://goldenaarcher.blog.csdn.net/article/details/125598353)
 3. [222. 完全二叉树的节点个数](https://goldenaarcher.blog.csdn.net/article/details/125705544)
+4. [112 & 113 Path Sum I, II](https://goldenaarcher.blog.csdn.net/article/details/125713057)
 
 #### 二叉搜索树
 
@@ -192,6 +194,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
    题目为：235. 二叉搜索树的最近公共祖先 和 236. 二叉树的最近公共祖先
 
 6. [108. 将有序数组转换为二叉搜索树](https://goldenaarcher.blog.csdn.net/article/details/125583360)
+
+#### 前缀树 trie
+
+- [前缀树 trie](https://goldenaarcher.blog.csdn.net/article/details/125719676)
 
 ### 图
 
