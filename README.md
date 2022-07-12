@@ -181,6 +181,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 2. [105. 从前序与中序遍历序列构造二叉树](https://goldenaarcher.blog.csdn.net/article/details/125598353)
 3. [222. 完全二叉树的节点个数](https://goldenaarcher.blog.csdn.net/article/details/125705544)
 4. [112 & 113 Path Sum I, II](https://goldenaarcher.blog.csdn.net/article/details/125713057)
+5. [297. 二叉树的序列化与反序列化](https://goldenaarcher.blog.csdn.net/article/details/125734853)
 
 #### 二叉搜索树
 
@@ -198,6 +199,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 #### 前缀树 trie
 
 - [前缀树 trie](https://goldenaarcher.blog.csdn.net/article/details/125719676)
+
+1. [208. 实现前缀树](https://goldenaarcher.blog.csdn.net/article/details/125720739)
 
 ### 图
 
