@@ -110,6 +110,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
    我也放在上面一起解了。
 
 2. [93. 复原 IP 地址](https://goldenaarcher.blog.csdn.net/article/details/125039462)
+3. [79. 单词搜索](https://goldenaarcher.blog.csdn.net/article/details/125741560)
 
 ### 贪心
 
@@ -121,7 +122,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [279. 组成整数的最小平方数数量](https://goldenaarcher.blog.csdn.net/article/details/124977693)
 
-2. [79. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
+2. [53. 最大子数组和](https://goldenaarcher.blog.csdn.net/article/details/125043305)
 
 3. [121. 买卖股票的最佳时机](https://goldenaarcher.blog.csdn.net/article/details/125146148)
 4. [118. 杨辉三角](https://goldenaarcher.blog.csdn.net/article/details/125148841)
@@ -153,6 +154,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
 
 2. [394. 字符串解码](https://goldenaarcher.blog.csdn.net/article/details/125109032)
+3. [20. 有效的括号](https://mp.csdn.net/mp_blog/manage/article?spm=1011.2124.3001.5298)
 
 #### 队列
 
@@ -201,6 +203,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 - [前缀树 trie](https://goldenaarcher.blog.csdn.net/article/details/125719676)
 
 1. [208. 实现前缀树](https://goldenaarcher.blog.csdn.net/article/details/125720739)
+
+2. [212. 单词搜索 II](https://goldenaarcher.blog.csdn.net/article/details/125761572)
 
 ### 图
 
