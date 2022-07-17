@@ -156,6 +156,8 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 2. [394. 字符串解码](https://goldenaarcher.blog.csdn.net/article/details/125109032)
 3. [20. 有效的括号](https://mp.csdn.net/mp_blog/manage/article?spm=1011.2124.3001.5298)
 4. [155. 最小栈](https://goldenaarcher.blog.csdn.net/article/details/125763308)
+5. [227. 基础计算器 II](https://goldenaarcher.blog.csdn.net/article/details/125783160)
+6. [496. 下一个更大元素 I](https://goldenaarcher.blog.csdn.net/article/details/125830610)
 
 #### 队列
 
