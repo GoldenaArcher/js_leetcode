@@ -23,6 +23,7 @@
       - [二叉搜索树](#二叉搜索树)
       - [前缀树 trie](#前缀树-trie)
     - [图](#图)
+      - [并查集](#并查集)
     - [位运算](#位运算)
     - [数组与矩阵](#数组与矩阵)
       - [数组](#数组)
@@ -151,6 +152,10 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 #### 栈
 
+- [单调栈](https://goldenaarcher.blog.csdn.net/article/details/125830823)
+
+题目：
+
 1. [150, 逆波兰表达式求值](https://goldenaarcher.blog.csdn.net/article/details/125100604)
 
 2. [394. 字符串解码](https://goldenaarcher.blog.csdn.net/article/details/125109032)
@@ -158,6 +163,7 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 4. [155. 最小栈](https://goldenaarcher.blog.csdn.net/article/details/125763308)
 5. [227. 基础计算器 II](https://goldenaarcher.blog.csdn.net/article/details/125783160)
 6. [496. 下一个更大元素 I](https://goldenaarcher.blog.csdn.net/article/details/125830610)
+7. [726. 原子的数量](https://goldenaarcher.blog.csdn.net/article/details/125835813)
 
 #### 队列
 
@@ -213,6 +219,12 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
 
 1. [1615. 最大网络秩](https://goldenaarcher.blog.csdn.net/article/details/124777888)
 
+#### 并查集
+
+1. [200, 721, 684](https://goldenaarcher.blog.csdn.net/article/details/127712688)
+
+   三道题 200. 岛屿数量，721. 账户合并 和 684. 冗余连接 都放在一起解了。
+
 ### 位运算
 
 1. [318. 最大单词长度乘积](https://goldenaarcher.blog.csdn.net/article/details/125030472)
@@ -266,3 +278,5 @@ Github 地址: [Leetcode 刷题目录](https://github.com/GoldenaArcher/js_leetc
   - 102.  Binary Tree Level Order Traversal
 
   除了层序遍历只用了 BFS，其他遍历方法包括递归和迭代的写法
+
+- [并查集(Data Structure for Disjoint Sets)](https://goldenaarcher.blog.csdn.net/article/details/127711899)
